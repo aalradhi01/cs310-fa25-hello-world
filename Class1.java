@@ -12,8 +12,9 @@ public class Class1 {
     System.out.println("f2");
 }
 public void f3() {
-    System.out.println("f3");
+    System.out.println("f3 - hotfix");
 }
+
 
 
     
